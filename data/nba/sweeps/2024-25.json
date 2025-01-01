@@ -12,5 +12,117 @@
     "date": "2024-11-10",
     "games": 2,
     "link": "https://www.espn.com/nba/game/_/gameId/401704777/raptors-lakers"
+  },
+  {
+    "sweptBy": "1610612747",
+    "swept": "1610612740",
+    "date": "2024-11-20",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704818/pelicans-cavaliers"
+  },
+  {
+    "sweptBy": "1610612763",
+    "swept": "1610612755",
+    "date": "2024-11-20",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704821/76ers-grizzlies"
+  },
+  {
+    "sweptBy": "1610612746",
+    "swept": "1610612755",
+    "date": "2024-11-24",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704840/clippers-76ers"
+  },
+  {
+    "sweptBy": "1610612737",
+    "swept": "1610612740",
+    "date": "2024-12-02",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704881/pelicans-hawks"
+  },
+  {
+    "sweptBy": "1610612738",
+    "swept": "1610612749",
+    "date": "2024-12-06",
+    "games": 3,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704901/bucks-celtics"
+  },
+  {
+    "sweptBy": "1610612763",
+    "swept": "1610612764",
+    "date": "2024-12-08",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704919/grizzlies-wizards"
+  },
+  {
+    "sweptBy": "1610612753",
+    "swept": "1610612756",
+    "date": "2024-12-08",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704918/suns-magic"
+  },
+  {
+    "sweptBy": "1610612760",
+    "swept": "1610612753",
+    "date": "2024-12-19",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704927/thunder-magic"
+  },
+  {
+    "sweptBy": "1610612755",
+    "swept": "1610612766",
+    "date": "2024-12-20",
+    "games": 4,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704939/hornets-76ers"
+  },
+  {
+    "sweptBy": "1610612752",
+    "swept": "1610612740",
+    "date": "2024-12-21",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704950/knicks-pelicans"
+  },
+  {
+    "sweptBy": "1610612765",
+    "swept": "1610612747",
+    "date": "2024-12-23",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704970/pistons-lakers"
+  },
+  {
+    "sweptBy": "1610612739",
+    "swept": "1610612743",
+    "date": "2024-12-27",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401704990/cavaliers-nuggets"
+  },
+  {
+    "sweptBy": "1610612747",
+    "swept": "1610612758",
+    "date": "2024-12-28",
+    "games": 4,
+    "link": "https://www.espn.com/nba/game/_/gameId/401705001/kings-lakers"
+  },
+  {
+    "sweptBy": "1610612753",
+    "swept": "1610612751",
+    "date": "2024-12-29",
+    "games": 4,
+    "link": "https://www.espn.com/nba/game/_/gameId/401705002/nets-magic"
+  },
+  {
+    "sweptBy": "1610612739",
+    "swept": "1610612744",
+    "date": "2024-12-30",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401705012/cavaliers-warriors"
+  },
+  {
+    "sweptBy": "1610612739",
+    "swept": "1610612747",
+    "date": "2024-12-31",
+    "games": 2,
+    "link": "https://www.espn.com/nba/game/_/gameId/401705020/cavaliers-lakers"
   }
 ]
