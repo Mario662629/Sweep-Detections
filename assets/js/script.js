@@ -2,7 +2,7 @@ let teams = {}; // Will hold the team IDs and their full names
 let sweeps = []; // Will hold the sweep data for the selected season
 
 // Fetch the NBA teams data from the external JSON file
-fetch('data/nba/teams.json')
+fetch('Sweep%20Detections/data/nba/teams.json')
     .then(response => response.json())
     .then(data => {
         console.log("Teams data loaded:", data); // Log teams data to the console
@@ -24,7 +24,7 @@ function loadSeasonData(season) {
     document.title = `NBA ${season} Season Sweeps`; // Update the browser tab title
 
     // Fetch the sweep data for the selected season
-    fetch(`data/nba/sweeps/${season}.json`)
+    fetch(`Sweep%20Detections/data/nba/sweeps/${season}.json`)
         .then(response => response.json())
         .then(data => {
             console.log(`Sweep data loaded for ${season}:`, data); // Log sweep data
